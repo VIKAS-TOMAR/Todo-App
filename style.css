@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #548687;
+}
+
+h1{
+    color: #000;
+}
+
+input {
+    border: 1px solid wheat;
+    height: 100%;
+    background: #fff;
+    border-radius: 50px;
+    font-size: 15px;
+    color: black;
+    outline: none;
+}
+
+
+button{
+    padding: 0.2rem;
+    font-size: 0.8rem;
+    border: none;
+    background-color: #191913;
+    color: #fff;
+    border: none;
+    border-radius: 1rem;
+}
+
+ul li{
+    list-style: none;
+    color: #fff;
+    font-size: 1rem;
+    justify-content: space-between;
+}
